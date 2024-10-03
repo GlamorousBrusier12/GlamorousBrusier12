@@ -52,6 +52,10 @@ currentlyExploring: {
 }
 ```
 
+
+## Currently learning
+[![roadmap.sh](https://roadmap.sh/card/tall/66bc36cd4e7fe8964e232238?variant=dark&roadmaps=nodejs%2Creact-native)](https://roadmap.sh)
+
 ## 🛠️ **Languages & Tools:**
 
 <p>
